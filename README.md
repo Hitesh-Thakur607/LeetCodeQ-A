@@ -23,6 +23,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0022-generate-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
