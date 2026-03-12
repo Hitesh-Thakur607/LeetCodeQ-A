@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1068-product-sales-analysis-i) |
 | [1393-capital-gainloss](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1393-capital-gainloss) |
 | [1693-daily-leads-and-partners](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1693-daily-leads-and-partners) |
