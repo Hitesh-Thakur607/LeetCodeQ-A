@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1920-build-array-from-permutation) |
@@ -75,4 +76,16 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
