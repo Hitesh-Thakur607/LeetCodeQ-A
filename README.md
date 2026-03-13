@@ -20,6 +20,7 @@
 | [0216-combination-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+| [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
 ## Breadth-First Search
 |  |
@@ -92,10 +94,12 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
