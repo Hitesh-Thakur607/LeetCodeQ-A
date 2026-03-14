@@ -37,6 +37,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -57,6 +58,7 @@
 | [0040-combination-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0216-combination-sum-iii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
