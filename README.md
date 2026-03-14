@@ -7,6 +7,7 @@
 | [0627-swap-sex-of-employees](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1068-product-sales-analysis-i) |
 | [1393-capital-gainloss](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1393-capital-gainloss) |
+| [1587-bank-account-summary-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1795-rearrange-products-table) |
