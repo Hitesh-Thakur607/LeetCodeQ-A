@@ -117,4 +117,8 @@
 |  |
 | ------- |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2375-construct-smallest-number-from-di-string) |
+## Math
+|  |
+| ------- |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1551-minimum-operations-to-make-array-equal) |
 <!---LeetCode Topics End-->
