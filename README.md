@@ -46,6 +46,7 @@
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
+| [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,4 +123,12 @@
 |  |
 | ------- |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1551-minimum-operations-to-make-array-equal) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
