@@ -12,15 +12,14 @@ public:
                     }
                 }
                 sort(temp.begin(), temp.end());
-int newans = INT_MAX;
-for(int x = 1; x < temp.size(); x++){
-    if(temp[x] == temp[x-1]) continue;   
-    newans = min(newans, temp[x] - temp[x-1]);
-}
-if(newans == INT_MAX) newans = 0;
-                if(temp.size() <= 1) newans = 0;
-
-                anso.push_back(newans);
+                int newans = INT_MAX;
+                for(int x = 1; x < temp.size(); x++){
+                    if(temp[x] == temp[x-1]) continue;   
+                        newans = min(newans, temp[x] - temp[x-1]);
+                    }
+                    if(newans == INT_MAX) newans = 0;
+                        if(temp.size() <= 1) newans = 0;    
+                            anso.push_back(newans);
             }
             ans.push_back(anso);
         }
