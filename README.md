@@ -42,6 +42,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+| [1143-longest-common-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -57,6 +58,7 @@
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
