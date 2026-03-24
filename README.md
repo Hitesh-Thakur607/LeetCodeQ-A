@@ -18,6 +18,7 @@
 | [0039-combination-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
@@ -87,6 +89,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
