@@ -22,6 +22,7 @@
 | [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0120-triangle) |
 | [0216-combination-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0377-combination-sum-iv) |
@@ -64,6 +65,7 @@
 | [0062-unique-paths](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
