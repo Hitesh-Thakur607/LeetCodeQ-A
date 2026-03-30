@@ -21,6 +21,7 @@
 | [0039-combination-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0090-subsets-ii) |
@@ -83,6 +84,7 @@
 | [0022-generate-parentheses](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0494-target-sum) |
