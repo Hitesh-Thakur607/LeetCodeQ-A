@@ -29,6 +29,7 @@
 | [0216-combination-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0377-combination-sum-iv) |
+| [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
@@ -101,6 +102,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Matrix
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+| [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Binary Search
 |  |
@@ -173,6 +176,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
 ## Combinatorics
 |  |
