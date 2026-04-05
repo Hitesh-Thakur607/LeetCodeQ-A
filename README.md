@@ -44,6 +44,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
@@ -95,6 +96,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0980-unique-paths-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0980-unique-paths-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
