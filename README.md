@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0610-triangle-judgement) |
