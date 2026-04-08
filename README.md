@@ -50,11 +50,13 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Simulation
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1920-build-array-from-permutation) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
