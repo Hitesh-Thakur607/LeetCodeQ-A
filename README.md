@@ -51,6 +51,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Simulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Breadth-First Search
 |  |
 | ------- |
