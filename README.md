@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
@@ -175,6 +176,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
