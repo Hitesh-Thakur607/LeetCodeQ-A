@@ -3,21 +3,23 @@ public:
     int maxDistance(vector<int>& colors) {
         int start=0;
         int maxdist=0;
-        while(start<colors.size()){
-            if(colors.size()-start<=maxdist){
+        while(start<colors.size()&&start-colors.size()-1>maxdist){
+            int nextele=-1;
+            int right=start;
+            while(right<colors.size()){
+                if(colors[start]!=colors[right]){
+                    if(nextele==-1){
+                        nextele=right;
+                    }
+                    maxdist=max(right-start,maxdist);
+                }
+                right++;
+            }
+            if(nextele==-1){
                 break;
             }
-            int latst=colors.size()-1;
-            while(latst>start){
-                if(colors[start]!=colors[latst]){
-                    break;
-                }
-                latst--;
-            }
-            maxdist=max(latst-start,maxdist);
-            start++;
+            start=nextele;
         }
         return maxdist;
     }
 };
-// 1 6 2 1 1 1
