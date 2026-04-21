@@ -50,6 +50,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1920-build-array-from-permutation) |
@@ -242,4 +243,12 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0503-next-greater-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
