@@ -1,39 +1,26 @@
 class Solution {
 public:
-    void dfs(string digits, vector<string>& alpha, vector<string>& result,
-             vector<char>& s, int index) {
-
-        if (s.size() == digits.size()) {        // FIXED: compare with size, not string
-            result.push_back(string(s.begin(), s.end()));
-            return;
-        }
-
-        if (index >= digits.size()) return;     // OK
-
-        int num = digits[index] - '0';
-
-        for (int i = 0; i < alpha[num].size(); i++) {
-            s.push_back(alpha[num][i]);
-            dfs(digits, alpha, result, s, index + 1);
-            s.pop_back();
-        }
+vector<string>phone={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+vector<string>ans;
+void allsequence(string& digits,int idx,string test){
+    if(test.size()==digits.size()){
+        ans.push_back(test);
+        return;
     }
-
+    if(idx>=digits.size()){
+        return ;
+    }
+    int idxx=digits[idx]-'0';
+    cout<<idxx<<endl;
+    if(idxx>9){
+        return ;
+    }
+    for(int i=0;i<phone[idxx].size();i++){
+        allsequence(digits,idx+1,test+phone[idxx][i]);
+    }
+}
     vector<string> letterCombinations(string digits) {
-
-        if (digits.empty()) return {};   // FIXED: handle empty input
-
-        // FIXED: proper initialization of alpha
-        vector<string> alpha = {
-            "", "", "abc", "def", "ghi",
-            "jkl", "mno", "pqrs", "tuv", "wxyz"
-        };
-
-        vector<string> result;           // FIXED: should be vector<string>
-        vector<char> s;
-        int index = 0;
-
-        dfs(digits, alpha, result, s, index);   // FIXED: correct argument order
-        return result;                          // FIXED: must return result
+        allsequence(digits,0,"");
+        return ans;
     }
 };
