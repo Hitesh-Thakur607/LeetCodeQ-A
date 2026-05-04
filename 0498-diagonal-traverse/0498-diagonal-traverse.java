@@ -7,7 +7,6 @@ class Solution {
             for(int j=0;j<mat[i].length;j++){
                 count++;
                 if(!mpp.containsKey(i+j)){
-                    System.out.println(i+j);
                     mpp.put(i+j,new ArrayList<>());
                     mpp.get(i+j).add(mat[i][j]);   
                 }
@@ -22,7 +21,6 @@ class Solution {
                 rev=false;
             }
             else{
-                System.out.println(mp.getValue());
                 Collections.reverse(mp.getValue());
                 ans.add(mp.getValue());
                 rev=true;
