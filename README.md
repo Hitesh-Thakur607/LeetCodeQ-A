@@ -27,6 +27,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0055-jump-game) |
@@ -158,6 +159,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0064-minimum-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0980-unique-paths-iii) |
@@ -226,6 +228,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0062-unique-paths) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2698-find-the-punishment-number-of-an-integer) |
