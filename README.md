@@ -68,6 +68,7 @@
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -135,6 +136,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
 |  |
