@@ -34,6 +34,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0051-n-queens) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
@@ -171,6 +173,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
