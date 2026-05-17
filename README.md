@@ -59,6 +59,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [0980-unique-paths-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
+| [1306-jump-game-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1306-jump-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
+| [1306-jump-game-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Sorting
 |  |
@@ -297,6 +299,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0437-path-sum-iii) |
+| [1306-jump-game-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
