@@ -47,6 +47,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0216-combination-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
