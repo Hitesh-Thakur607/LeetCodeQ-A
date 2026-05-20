@@ -73,6 +73,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2305-fair-distribution-of-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2305-fair-distribution-of-cookies) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3546-equal-sum-grid-partition-i) |
@@ -206,6 +207,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -251,6 +253,7 @@
 | [0784-letter-case-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0980-unique-paths-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2305-fair-distribution-of-cookies) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
