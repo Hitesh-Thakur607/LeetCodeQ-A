@@ -75,6 +75,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -116,6 +117,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -208,6 +210,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -343,4 +346,8 @@
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2305-fair-distribution-of-cookies) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
