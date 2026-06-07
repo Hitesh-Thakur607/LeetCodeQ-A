@@ -75,6 +75,7 @@
 | [1920-build-array-from-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2305-fair-distribution-of-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2305-fair-distribution-of-cookies) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -218,6 +219,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -336,6 +338,7 @@
 | [0113-path-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0437-path-sum-iii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -348,6 +351,7 @@
 | [0113-path-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0437-path-sum-iii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String Matching
 |  |
 | ------- |
