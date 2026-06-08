@@ -75,6 +75,7 @@
 | [1920-build-array-from-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2305-fair-distribution-of-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2305-fair-distribution-of-cookies) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -94,6 +95,7 @@
 | [0498-diagonal-traverse](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0498-diagonal-traverse) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1920-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
@@ -305,6 +307,7 @@
 | [0283-move-zeroes](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
 ## Combinatorics
 |  |
