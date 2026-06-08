@@ -11,25 +11,24 @@
  */
 class Solution {
 public:
-vector<vector<int>>ans;
-void allpathsum(int tar,int sum,vector<int>overall,TreeNode* root){
-    if(root==nullptr){
+void findpath(TreeNode* root,int target,int sum,vector<vector<int>>&paths,vector<int>&path){
+    if(root==nullptr) return ;
+    sum+=root->val;
+    path.push_back(root->val);
+    if(root->right==nullptr&&root->left==nullptr&&sum==target){
+        paths.push_back(path); 
+        path.pop_back();
         return ;
     }
-    if(tar==sum+root->val){
-        if(root->left==nullptr&&root->right==nullptr){
-            overall.push_back(root->val);
-            ans.push_back(overall);
-        }
-    }
-    overall.push_back(root->val);
-    allpathsum(tar,sum+root->val,overall,root->left);
-    allpathsum(tar,sum+root->val,overall,root->right);
-    overall.pop_back();
+    findpath(root->left,target,sum,paths,path);
+    findpath(root->right,target,sum,paths,path);
+    path.pop_back();
 }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        vector<int>a;
-        allpathsum(targetSum,0,a,root);
-        return ans;
+        if(root==nullptr) return {};
+        vector<vector<int>>paths;
+        vector<int>path;
+        findpath(root,targetSum,0,paths,path);
+        return paths;
     }
 };
