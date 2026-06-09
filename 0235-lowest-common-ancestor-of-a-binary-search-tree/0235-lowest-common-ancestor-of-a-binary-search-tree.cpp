@@ -10,7 +10,7 @@
 
 class Solution {
 public:
-void mapval(TreeNode* root,TreeNode* p,TreeNode* q,vector<TreeNode*>a,vector<vector<TreeNode*>>&ans){
+void mapval(TreeNode* root,TreeNode* p,TreeNode* q,vector<TreeNode*>&a,vector<vector<TreeNode*>>&ans){
     if(root==nullptr){
         return;
     }
@@ -20,6 +20,7 @@ void mapval(TreeNode* root,TreeNode* p,TreeNode* q,vector<TreeNode*>a,vector<vec
     }
     mapval(root->left,p,q,a,ans);
     mapval(root->right,p,q,a,ans);
+    a.pop_back();
 }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         vector<TreeNode*>a;
@@ -28,7 +29,6 @@ void mapval(TreeNode* root,TreeNode* p,TreeNode* q,vector<TreeNode*>a,vector<vec
         int size=min(ans[0].size(),ans[1].size());
         TreeNode* last;
         for(int i=0;i< size;i++){
-            cout<<ans[0][i]->val<<" "<<ans[1][i]->val;
           if(ans[0][i]==ans[1][i]){
             last=ans[0][i];
           }      
