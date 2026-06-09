@@ -88,6 +88,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Simulation
@@ -196,6 +197,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
 | ------- |
