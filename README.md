@@ -336,6 +336,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0437-path-sum-iii) |
 | [1306-jump-game-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -354,6 +355,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0437-path-sum-iii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -361,6 +363,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -371,6 +374,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0437-path-sum-iii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2196-create-binary-tree-from-descriptions) |
