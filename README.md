@@ -124,6 +124,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2833-furthest-point-from-origin) |
@@ -225,6 +226,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1980-find-unique-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
