@@ -113,6 +113,7 @@
 | [0227-basic-calculator-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0227-basic-calculator-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0796-rotate-string) |
 | [1092-shortest-common-supersequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1092-shortest-common-supersequence) |
@@ -156,6 +157,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0678-valid-parenthesis-string) |
 | [1092-shortest-common-supersequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -196,6 +198,7 @@
 | [0045-jump-game-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0678-valid-parenthesis-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -289,6 +292,7 @@
 | [0224-basic-calculator](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0227-basic-calculator-ii) |
 | [0503-next-greater-element-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0678-valid-parenthesis-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Math
 |  |
