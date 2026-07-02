@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0040-combination-sum-ii) |
@@ -323,6 +324,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1855-maximum-distance-between-a-pair-of-values) |
