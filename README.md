@@ -115,6 +115,7 @@
 | [0125-valid-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0583-delete-operation-for-two-strings) |
@@ -230,6 +231,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
 | [0491-non-decreasing-subsequences](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0491-non-decreasing-subsequences) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1189-maximum-number-of-balloons) |
@@ -259,6 +261,7 @@
 | [0015-3sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Binary Search
