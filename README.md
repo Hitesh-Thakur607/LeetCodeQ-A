@@ -117,6 +117,7 @@
 | [0072-edit-distance](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
@@ -237,6 +238,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
 | [0491-non-decreasing-subsequences](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0491-non-decreasing-subsequences) |
