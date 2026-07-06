@@ -65,6 +65,7 @@
 | [0498-diagonal-traverse](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
@@ -242,6 +243,7 @@
 | [0217-contains-duplicate](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
 | [0491-non-decreasing-subsequences](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0491-non-decreasing-subsequences) |
+| [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -291,6 +293,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
