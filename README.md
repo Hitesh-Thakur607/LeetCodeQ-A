@@ -126,6 +126,7 @@
 | [0344-reverse-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0784-letter-case-permutation) |
@@ -246,6 +247,7 @@
 | [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
 | [0491-non-decreasing-subsequences](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -290,6 +292,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -354,6 +357,7 @@
 | [0344-reverse-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
