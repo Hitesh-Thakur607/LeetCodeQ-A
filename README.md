@@ -125,6 +125,7 @@
 | [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0583-delete-operation-for-two-strings) |
@@ -245,6 +246,7 @@
 | [0217-contains-duplicate](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
@@ -292,6 +294,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
