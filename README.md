@@ -67,6 +67,7 @@
 | [0503-next-greater-element-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
@@ -296,6 +297,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
