@@ -60,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
@@ -310,6 +311,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
@@ -453,4 +455,8 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
