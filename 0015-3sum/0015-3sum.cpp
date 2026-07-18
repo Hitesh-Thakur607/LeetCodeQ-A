@@ -1,46 +1,40 @@
 class Solution {
 public:
-// -4 -1 -1 -1 0  2
-void find(vector<vector<int>>&ans,int j,vector<int>& nums){
-    int front=j+1;
-    int back=nums.size()-1;
-    while(front<back){
-        if(front-1!=j&&nums[front]==nums[front-1]){
-            front++;
-            continue;
-        }
-        if(back+1<nums.size()&&nums[back]==nums[back+1]){
-            back--;
-            continue;
-        }
-        if(front==j){
-            front++;
-            continue;
-        }
-        if(nums[front]+nums[back]+nums[j]==0){
-            ans.push_back({nums[j],nums[front],nums[back]});
-            front++;
-            back--;
-        }
-        else if(nums[front]+nums[back]+nums[j]<0){
-            front++;
-        }
-        else{
-            back--;
-        }
+vector<vector<int>>numo;
+void find(int start, int end, vector<int>& temp, int curr) {
+    if (start >= end)
+        return;
+    int a = temp[curr];
+    int b = temp[start];
+    int c = temp[end];
+    int sum = a + b + c;
+    if(start-1!=curr&&temp[start-1]==temp[start]){
+        find(start+1,end,temp,curr);
+    }
+    else if(end+1<temp.size()-1&&temp[end+1]==temp[end]){
+        find(start,end-1,temp,curr);
+    }
+    else if (sum == 0) {
+        numo.push_back({a, b, c});
+        find(start + 1, end - 1, temp, curr);
+    }
+    else if (sum > 0) {
+        find(start, end - 1, temp, curr);
+    }
+    else {
+        find(start + 1, end, temp, curr);
     }
 }
     vector<vector<int>> threeSum(vector<int>& nums) {
-       vector<vector<int>>ans;
-       sort(nums.begin(),nums.end());
-       for(int i=0;i<nums.size();i++){
-        if(i==0){
-             find(ans,i,nums);
+        sort(nums.begin(),nums.end());
+        for(int i=0;i<nums.size();i++){
+            if(i==0){
+                find(i+1,nums.size()-1,nums,i);
             }
-        else if(i>0&&nums[i]!=nums[i-1]){
-            find(ans,i,nums);
+            else if(nums[i]!=nums[i-1]){
+                find(i+1,nums.size()-1,nums,i);
+            }
         }
-       } 
-       return ans;
+        return numo;
     }
 };
