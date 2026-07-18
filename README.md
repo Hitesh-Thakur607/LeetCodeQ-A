@@ -55,6 +55,7 @@
 | [0120-triangle](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0219-contains-duplicate-ii) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -363,6 +365,7 @@
 | [0027-remove-element](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0392-is-subsequence) |
