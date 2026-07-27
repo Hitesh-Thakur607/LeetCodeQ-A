@@ -69,6 +69,7 @@
 | [0498-diagonal-traverse](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0724-find-pivot-index) |
@@ -254,6 +255,7 @@
 | [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0491-non-decreasing-subsequences) |
+| [0525-contiguous-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
