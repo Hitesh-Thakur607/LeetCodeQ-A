@@ -73,6 +73,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0724-find-pivot-index) |
+| [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [0980-unique-paths-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0980-unique-paths-iii) |
@@ -234,6 +235,7 @@
 | [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0498-diagonal-traverse) |
+| [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0980-unique-paths-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -278,6 +280,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
+| [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Sorting
@@ -295,6 +298,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -401,12 +405,14 @@
 | [0113-path-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0437-path-sum-iii) |
+| [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Tree
@@ -462,4 +468,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
