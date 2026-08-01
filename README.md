@@ -64,6 +64,7 @@
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0498-diagonal-traverse) |
@@ -178,6 +179,7 @@
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Greedy
 |  |
@@ -354,6 +357,7 @@
 | [0062-unique-paths](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0227-basic-calculator-ii) |
+| [0486-predict-the-winner](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0486-predict-the-winner) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Counting
@@ -477,4 +481,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
