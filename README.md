@@ -76,6 +76,7 @@
 | [0724-find-pivot-index](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0724-find-pivot-index) |
 | [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0930-binary-subarrays-with-sum) |
 | [0980-unique-paths-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1004-max-consecutive-ones-iii) |
@@ -185,6 +186,7 @@
 | [0518-coin-change-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -358,6 +360,7 @@
 | [0224-basic-calculator](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0877-stone-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Counting
@@ -485,4 +488,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
