@@ -363,6 +363,7 @@
 | [0877-stone-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0877-stone-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
 |  |
 | ------- |
@@ -375,6 +376,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
