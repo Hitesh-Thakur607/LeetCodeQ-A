@@ -291,6 +291,7 @@
 | [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3310-remove-methods-from-project](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
 | ------- |
@@ -423,6 +424,7 @@
 | [1306-jump-game-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3310-remove-methods-from-project](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -499,4 +501,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
