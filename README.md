@@ -386,6 +386,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0125-valid-palindrome) |
@@ -470,6 +471,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1669-merge-in-between-linked-lists) |
 ## Bitmask
 |  |
