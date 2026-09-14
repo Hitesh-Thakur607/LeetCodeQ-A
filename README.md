@@ -397,6 +397,7 @@
 | [0455-assign-cookies](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0567-permutation-in-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3643-flip-square-submatrix-vertically) |
 ## Combinatorics
@@ -473,6 +474,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1669-merge-in-between-linked-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bitmask
 |  |
 | ------- |
