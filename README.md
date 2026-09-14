@@ -221,6 +221,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Greedy
@@ -351,6 +352,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0678-valid-parenthesis-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -392,6 +394,7 @@
 | [0088-merge-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0392-is-subsequence) |
@@ -475,6 +478,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0234-palindrome-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bitmask
