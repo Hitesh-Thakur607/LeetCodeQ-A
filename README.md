@@ -49,6 +49,7 @@
 | [0055-jump-game](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -299,6 +300,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0242-valid-anagram) |
@@ -391,6 +393,7 @@
 | [0015-3sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -515,4 +518,12 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/3310-remove-methods-from-project) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
