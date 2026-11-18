@@ -57,6 +57,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0219-contains-duplicate-ii) |
@@ -244,6 +245,7 @@
 | [0048-rotate-image](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0498-diagonal-traverse) |
 | [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0980-unique-paths-iii) |
@@ -290,6 +292,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0322-coin-change) |
 | [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1306-jump-game-iii) |
@@ -427,6 +430,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0437-path-sum-iii) |
 | [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
@@ -437,6 +441,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/0778-swim-in-rising-water) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Hitesh-Thakur607/LeetCodeQ-A/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
